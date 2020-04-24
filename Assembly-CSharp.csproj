@@ -54,6 +54,7 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\Scripts\BallScript.cs" />
+     <Compile Include="Assets\Scripts\BrickScript.cs" />
      <Compile Include="Assets\Scripts\PlayerScript.cs" />
  <Reference Include="Unity.TextMeshPro.Editor">
  <HintPath>C:/Users/Супер мяу мя/Arcanoid/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
